@@ -70,6 +70,8 @@
         <em>{{entry.journal}}</em>
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
+      {% elsif entry.type == "misc" %}
+        <em>{{entry.description}}</em>
       {% endif %}
 
       {% if entry.year %}

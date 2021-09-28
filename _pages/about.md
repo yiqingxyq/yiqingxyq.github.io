@@ -2,15 +2,16 @@
 layout: about
 title: about
 permalink: /
-description: <a href="http://dm1.cs.uiuc.edu/">Data Mining Group, UIUC</a>. +1 (518) 763-5018
+description: >
+    <a href="http://dm1.cs.uiuc.edu/">Data Mining Group, UIUC</a>. +1 (518) 763-5018
 
 profile:
   align: right
   image: Yiqing_Xie.png
-  address: >
-    <p>Rm 2119B, Siebel Center</p>
-    <p>201 N. Goodwin Avenue</p>
-    <p>Urbana, IL 61801, USA</p>
+  # address: >
+  #   <p>Rm 2119B, Siebel Center</p>
+  #   <p>201 N. Goodwin Avenue</p>
+  #   <p>Urbana, IL 61801, USA</p>
 
 news: true  # includes a list of news items
 sections: true
