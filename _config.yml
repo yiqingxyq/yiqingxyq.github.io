@@ -8,7 +8,7 @@ last_name: Xie
 email: xyiqing2@illinois.edu
 # description: >
 #  the ">" symbol means to ignore newlines until "footer_text:"
-#  Test description. 
+#  Test description.
 #  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 #footer_text: >
 #  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/#alshedivat/al-folio">al-folio</a> theme.
@@ -16,7 +16,7 @@ email: xyiqing2@illinois.edu
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 use_custom_favicon: true
-icon: favicon.ico # the emoji used as the favicon
+icon: assets/img/favicon.ico # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 # baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
