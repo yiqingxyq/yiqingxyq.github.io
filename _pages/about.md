@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a second-year master student in the data mining group at the University of Illinois Urbana-Champaign supervised by Prof. Jiawei Han. My research goal is to automatically extract knowledge from massive unstructured data.
 
-I have explored a broad range of topics including information extraction, network mining and taxonomy construction. I currently work on zero-shot event extraction, where the model automatically detects the events and extracts their arguments given event label information only.
+I have broad interest in NLP, data mining and machine learning. My previous/ongoing research topics include information extraction, summarization, taxonomy construction and graph algorithms. I currently work on open-domain event type discovery, where the model automatically finds the event types in the given text corpus. This can help people understand the corpus and facilitate the annotation process of event extraction.
  
-I obtained my Bachelor Degree in computer science and mathematics in Hong Kong University of Science and Technology. After graduation, I worked as a research intern at Alibaba, exploring few-shot friend recommendations under multiple scenarios.
+I obtained my Bachelor Degree in computer science and mathematics in Hong Kong University of Science and Technology. After graduation, I worked as a research intern at Alibaba, exploring few-shot interaction recommendations under emerging scenarios.
 
 <!---
 Test
