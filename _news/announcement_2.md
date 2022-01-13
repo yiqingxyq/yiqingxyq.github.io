@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-10-19 23:59:00-0400
+date: 2021-8-23 15:59:00-0400
 inline: true
 ---
 
-Submitted a paper on few-shot interaction recommendation to WWW'22
+Submitted a paper on document-level relation extraction to ARR and received positive meta-review! (Aiming at ACL'22)
