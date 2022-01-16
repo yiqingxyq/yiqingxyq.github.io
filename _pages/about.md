@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: >
     <a href="http://dm1.cs.uiuc.edu/">Data Mining Group, UIUC</a>. +1 (518) 763-5018
