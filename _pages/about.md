@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year master student in the data mining group at the University of Illinois Urbana-Champaign supervised by Prof. Jiawei Han. My research goal is to automatically extract knowledge from massive unstructured data.
+I am a second-year master student in the data mining group at the University of Illinois Urbana-Champaign supervised by Prof. Jiawei Han. I will begin my Ph.D. at the Language Technologies Institute of Carnegie Mellon University in 2022 Fall.
 
-I have broad interest in NLP, data mining and machine learning. My previous/ongoing research topics include information extraction, summarization, taxonomy construction and graph algorithms. I currently work on open-domain event type discovery, where the model automatically finds the event types in the given text corpus. This can help people understand the corpus and facilitate the annotation process of event extraction.
- 
-I obtained my Bachelor Degree in computer science and mathematics in Hong Kong University of Science and Technology. After graduation, I worked as a research intern at Alibaba, exploring few-shot interaction recommendations under emerging scenarios.
+I have broad interest in NLP and data mining. My previous/ongoing research topics include pretrained language models, information extraction, summarization, taxonomy construction and graph algorithms. I currently work on improving the pre-training of t5-based language models to obtain better sequence embeddings. This can be applied to downstream tasks such as dense retrieval and recommendation.
+
+I obtained my Bachelor Degree in computer science and mathematics in Hong Kong University of Science and Technology.
 
 <!---
 Test
