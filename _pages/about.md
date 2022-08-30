@@ -3,15 +3,15 @@ layout: about
 title: about
 permalink: /
 description: >
-    <a href="http://dm1.cs.uiuc.edu/">Data Mining Group, UIUC</a>. +1 (518) 763-5018
+    <a href="https://www.lti.cs.cmu.edu/people/222228292/yiqing-xie/">Language Technologies Institute, CMU</a>. +1 (518) 763-5018
 
 profile:
   align: right
   image: Yiqing_Xie.png
   # address: >
-  #   <p>Rm 2119B, Siebel Center</p>
-  #   <p>201 N. Goodwin Avenue</p>
-  #   <p>Urbana, IL 61801, USA</p>
+  #   <p>Rm 6607, Gates and Hillman Centers</p>
+  #   <p>4902 Forbes Ave</p>
+  #   <p>Pittsburgh, PA 15213, USA</p>
 
 news: true  # includes a list of news items
 sections: true
@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year master student in the data mining group at the University of Illinois Urbana-Champaign supervised by Prof. Jiawei Han. I will begin my Ph.D. at the Language Technologies Institute of Carnegie Mellon University in 2022 Fall.
+I am a first-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University.
 
 I have broad interest in NLP and data mining. My previous/ongoing research topics include pretrained language models, information extraction, summarization, taxonomy construction and graph algorithms. I currently work on improving the pre-training of t5-based language models to obtain better sequence embeddings. This can be applied to downstream tasks such as dense retrieval and recommendation.
 
-I obtained my Bachelor Degree in computer science and mathematics in Hong Kong University of Science and Technology.
+Before entering CMU, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by Prof. Jiawei Han. I completed the Bachelor study in computer science and mathematics in Hong Kong University of Science and Technology.
 
 <!---
 Test
