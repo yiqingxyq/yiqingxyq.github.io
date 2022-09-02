@@ -8,10 +8,10 @@ description: >
 profile:
   align: right
   image: Yiqing_Xie.png
-  # address: >
-  #   <p>Rm 6607, Gates and Hillman Centers</p>
-  #   <p>4902 Forbes Ave</p>
-  #   <p>Pittsburgh, PA 15213, USA</p>
+  address: >
+    <p>Rm 6607, Gates and Hillman Centers</p>
+    <p>4902 Forbes Ave</p>
+    <p>Pittsburgh, PA 15213, USA</p>
 
 news: true  # includes a list of news items
 sections: true
@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University.
+I am a first-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University. Before entering CMU, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by Prof. Jiawei Han. 
 
 I have broad interest in NLP and data mining. My previous/ongoing research topics include pretrained language models, information extraction, summarization, taxonomy construction and graph algorithms. I currently work on improving the pre-training of t5-based language models to obtain better sequence embeddings. This can be applied to downstream tasks such as dense retrieval and recommendation.
 
-Before entering CMU, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by Prof. Jiawei Han. I completed the Bachelor study in computer science and mathematics in Hong Kong University of Science and Technology.
+Previously, I completed the Bachelor study in computer science and mathematics in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
 
 <!---
 Test
