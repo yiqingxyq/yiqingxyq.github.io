@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a first-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University. Before entering CMU, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by Prof. Jiawei Han. 
 
-I have broad interest in NLP and data mining. My previous/ongoing research topics include pretrained language models, information extraction, summarization, taxonomy construction and graph algorithms. I currently work on improving the pre-training of t5-based language models to obtain better sequence embeddings. This can be applied to downstream tasks such as dense retrieval and recommendation.
+I have broad interest in NLP and data mining. My previous/ongoing research topics include pretrained language models, information extraction, summarization, taxonomy construction and graph algorithms. I currently work on improving the pre-training of text-to-text language models to obtain better sequence embeddings. This can be applied to downstream tasks such as dense retrieval and recommendation.
 
 Previously, I completed the Bachelor study in computer science and mathematics in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
 
