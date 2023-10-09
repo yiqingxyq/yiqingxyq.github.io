@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-2-24 15:59:00-0400
+date: 2023-10-9 14:14:00-0400
 inline: true
 ---
 
-One paper on document-level relation extraction got accepted to ACL Findings, 2022!
+One paper on code translation got accepted to EMNLP 2023!
