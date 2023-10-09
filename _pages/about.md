@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University supervised by [Prof. Carolyn Rosé](https://www.cs.cmu.edu/~cprose/). I am also collaborating with [Prof. Daniel Fried](https://dpfried.github.io/). Before entering CMU, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by Prof. Jiawei Han. 
+I am a second-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University supervised by [Prof. Carolyn Rosé](https://www.cs.cmu.edu/~cprose){:target="\_blank"}. I am also collaborating with [Prof. Daniel Fried](https://dpfried.github.io){:target="\_blank"}. Before entering CMU, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by Prof. Jiawei Han. 
 
-I have broad interest in NLP and data mining. My previous/ongoing research topics include NLP for code, NLG evaluation, information retrieval, information extraction and graph algorithms. My [recent work](https://openreview.net/forum?id=8NA76tz7Jj) conducts a data augmentation study on code translation, which gives significant performance improvement and reveals what the models learn in code translation.
+I have broad interest in NLP and data mining. My previous/ongoing research topics include NLP for code, NLG evaluation, information retrieval, information extraction and graph algorithms. My [recent work](https://openreview.net/forum?id=8NA76tz7Jj){:target="\_blank"} conducts a data augmentation study on code translation, which gives significant performance improvement and reveals what the models learn in code translation.
 
 Previously, I completed the Bachelor study in computer science and mathematics in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
 
