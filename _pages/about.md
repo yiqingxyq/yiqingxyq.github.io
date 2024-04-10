@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-    <a href="https://www.lti.cs.cmu.edu/people/222228292/yiqing-xie/">Language Technologies Institute, CMU</a>. +1 (518) 763-5018
+    <a href="https://www.lti.cs.cmu.edu/people/222228292/yiqing-xie/">Language Technologies Institute, CMU</a>.
 
 profile:
   align: right
@@ -19,18 +19,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University supervised by [Prof. Carolyn Rosé](https://www.cs.cmu.edu/~cprose){:target="\_blank"}. I am also collaborating with [Prof. Daniel Fried](https://dpfried.github.io){:target="\_blank"}. Before entering CMU, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu){:target="\_blank"}. 
+I am a second-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University and I am working with [Prof. Carolyn Rosé](https://www.cs.cmu.edu/~cprose){:target="\_blank"} and [Prof. Daniel Fried](https://dpfried.github.io){:target="\_blank"}. Previously, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu){:target="\_blank"} and obtained my Bachelor degree in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
 
-I have broad interest in NLP and data mining. My previous/ongoing research topics include NLP for code, NLG evaluation, information retrieval, information extraction and graph algorithms. My recent work conducts a data augmentation study on code translation, which gives significant performance improvement and reveals what the models learn in code translation.
+My research goal is to build generalizable, scalable and data efficient systems to reduce human labor. This includes:
 
-Previously, I completed the Bachelor study in computer science and mathematics in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
+* **NLP for code & Code for NLP**:
+  * Code generation systems: CMTrans
+  * Code generation evaluation: CodeBenchGen
+  * Code for other tasks
 
-<!---
-Test
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. 
--->
+* **Reduce human supervision in learning and evaluation**:
+  * Data efficient learning: training with silver labels (CMTrans, Eider), transfer learning (Anchor-DR, KoMen), model-generated signals (Eider, METRO-T0)
+  * Scalable evaluation: DocLens, CodeBenchGen 

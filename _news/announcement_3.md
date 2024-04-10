@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-09-23 09:59:00-0400
+date: 2023-2-18 14:14:00-0400
 inline: true
 ---
 
-I am honored to receive the Siebel Scholar Award, Class of 2022! :sparkles: 
+Check our new preprint on medical evaluation ([DocLens](https://arxiv.org/abs/2311.09581) 🔍) 

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-10-9 14:14:00-0400
+date: 2023-4-5 14:14:00-0400
 inline: true
 ---
 
-One paper on code translation got accepted to EMNLP 2023!
+Gave a talk on our recent work on evaluation of medical text at Microsoft!

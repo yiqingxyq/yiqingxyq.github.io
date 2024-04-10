@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-4-4 15:25:00-0400
+date: 2023-3-30 14:14:00-0400
 inline: true
 ---
 
-One paper on unsupervised dense retrieval got accepted to SIGIR 2023!
+Check our new preprint on scalable code benchmark creation ([CodeBenchGen](https://arxiv.org/abs/2404.00566) 🤖💻)
