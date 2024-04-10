@@ -4,4 +4,4 @@ date: 2023-4-4 15:25:00-0400
 inline: true
 ---
 
-One paper on unsupervised dense retrieval got accepted to SIGIR 2023 ⚓!
+One paper on unsupervised dense retrieval got accepted to SIGIR 2023 ([Anchor-DR](https://arxiv.org/abs/2305.05834) ⚓) !

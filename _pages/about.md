@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-    <a href="https://www.lti.cs.cmu.edu/people/222228292/yiqing-xie/">Language Technologies Institute, CMU</a>.
-
+    <a href="https://www.lti.cs.cmu.edu/people/222228292/yiqing-xie/">Language Technologies Institute, CMU</a>. <a href="mailto:yiqingxi@andrew.cmu.edu?subject=Hi">yiqingxi@andrew.cmu.edu</a>
 profile:
   align: right
   image: Yiqing_Xie.png
@@ -24,10 +23,11 @@ I am a second-year Ph.D. student at the Language Technologies Institute of Carne
 My research goal is to build generalizable, scalable and data efficient systems to reduce human labor. This includes:
 
 * **NLP for code & Code for NLP**:
-  * Code generation systems: CMTrans
-  * Code generation evaluation: CodeBenchGen
-  * Code for other tasks
+  * Code generation systems: [CMTrans](https://arxiv.org/abs/2311.00317)
+  * Code generation evaluation: [CodeBenchGen](https://arxiv.org/abs/2404.00566)
+  * Code generation to assist other tasks
 
 * **Reduce human supervision in learning and evaluation**:
-  * Data efficient learning: training with silver labels (CMTrans, Eider), transfer learning (Anchor-DR, KoMen), model-generated signals (Eider, METRO-T0)
-  * Scalable evaluation: DocLens, CodeBenchGen 
+  * Data efficient learning: 
+    * training with silver labels ([CMTrans](https://arxiv.org/abs/2311.00317), [Eider](https://arxiv.org/abs/2106.08657)), transfer learning ([Anchor-DR](https://arxiv.org/abs/2305.05834), [KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf)), and model-generated signals ([Eider](https://arxiv.org/abs/2106.08657), [METRO-T0](https://arxiv.org/abs/2305.12567))
+  * Scalable evaluation: [DocLens](https://arxiv.org/abs/2311.09581), [CodeBenchGen](https://arxiv.org/abs/2404.00566) 
