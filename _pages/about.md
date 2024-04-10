@@ -22,14 +22,13 @@ I am a second-year Ph.D. student at the Language Technologies Institute of Carne
 
 My research goal is to build generalizable, scalable and data efficient systems to reduce human labor. This includes:
 
-**NLP for code & Code for NLP**:
+* **NLP for Code & Code for NLP**:
   * Code generation systems: [CMTrans](https://arxiv.org/abs/2311.00317)
   * Code generation evaluation: [CodeBenchGen](https://arxiv.org/abs/2404.00566)
   * Code generation to assist other tasks
 
-<!-- &nbsp; -->
 
-**Reduce human supervision in learning and evaluation**:
+* **Learning and Evaluation with Light Human Effort**:
   * Data efficient learning: 
     * training with silver labels ([CMTrans](https://arxiv.org/abs/2311.00317), [Eider](https://arxiv.org/abs/2106.08657))
     * transfer learning ([Anchor-DR](https://arxiv.org/abs/2305.05834), [KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
