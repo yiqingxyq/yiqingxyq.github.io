@@ -30,10 +30,10 @@ My research goal is to build generalizable, scalable and annotation efficient sy
 <!-- &NewLine; -->
 
 **Annotation-efficient Model Training**
-  * Zero-shot / few-shot learning ([Anchor-DR](https://arxiv.org/abs/2305.05834), [KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
-  * Training with silver labels ([CMTrans](https://arxiv.org/abs/2311.00317), [Eider](https://arxiv.org/abs/2106.08657))
-  * Model-generated signals ([Eider](https://arxiv.org/abs/2106.08657), [METRO-T0](https://arxiv.org/abs/2305.12567))
-  * Guidance under heuristic metrics ([AlaGCN](https://www.cs.emory.edu/~jyang71/files/alagnn.pdf), [RL-MMR](https://arxiv.org/abs/2010.00117))
+  * (Continuous) pretraining ([Anchor-DR](https://arxiv.org/abs/2305.05834))
+  * Construction of silver labels ([Anchor-DR](https://arxiv.org/abs/2305.05834), [CMTrans](https://arxiv.org/abs/2311.00317), [Eider](https://arxiv.org/abs/2106.08657))
+  * Model-generated signals ([METRO-T0](https://arxiv.org/abs/2305.12567))
+  * Guidance under heuristic metrics or prior knowledge ([AlaGCN](https://www.cs.emory.edu/~jyang71/files/alagnn.pdf), [RL-MMR](https://arxiv.org/abs/2010.00117), [KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
 
 **Scalable Evaluation Methods**
   * Evaluation examples generation ([CodeBenchGen](https://arxiv.org/abs/2404.00566))
