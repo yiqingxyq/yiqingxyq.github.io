@@ -22,16 +22,20 @@ I am a second-year Ph.D. student at the Language Technologies Institute of Carne
 
 My research goal is to build generalizable, scalable and annotation efficient systems to reduce human labor. This includes:
 
-**NLP for Code & Code for NLP**:
+**NLP for Code & Code for NLP**
   * Code generation systems ([CMTrans](https://arxiv.org/abs/2311.00317))
   * Code generation evaluation ([CodeBenchGen](https://arxiv.org/abs/2404.00566))
-  * Code generation to assist other tasks 
+  * Code generation to assist other tasks (TBD)
 
 <!-- &NewLine; -->
 
-**Learning and Evaluation with Light Human Effort**:
-  * Annotation efficient learning:
-    * zero-shot / few-shot learning ([Anchor-DR](https://arxiv.org/abs/2305.05834), [KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
-    * training with silver labels ([CMTrans](https://arxiv.org/abs/2311.00317), [Eider](https://arxiv.org/abs/2106.08657))
-    * model-generated signals ([Eider](https://arxiv.org/abs/2106.08657), [METRO-T0](https://arxiv.org/abs/2305.12567))
-  * Scalable evaluation ([DocLens](https://arxiv.org/abs/2311.09581), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
+**Annotation-efficient Model Training**
+  * Zero-shot / few-shot learning ([Anchor-DR](https://arxiv.org/abs/2305.05834), [KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
+  * Training with silver labels ([CMTrans](https://arxiv.org/abs/2311.00317), [Eider](https://arxiv.org/abs/2106.08657))
+  * Model-generated signals ([Eider](https://arxiv.org/abs/2106.08657), [METRO-T0](https://arxiv.org/abs/2305.12567))
+  * Guidance under heuristic metrics ([AlaGCN](https://www.cs.emory.edu/~jyang71/files/alagnn.pdf), [RL-MMR](https://arxiv.org/abs/2010.00117))
+
+**Scalable Evaluation Methods**
+  * Evaluation examples generation ([CodeBenchGen](https://arxiv.org/abs/2404.00566))
+  * Automatic evaluation framework ([DocLens](https://arxiv.org/abs/2311.09581))
+  * Evaluator model training (TBD)
