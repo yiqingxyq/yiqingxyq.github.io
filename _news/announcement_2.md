@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-3-30 14:14:00-0400
+date: 2024-4-5 14:14:00-0400
 inline: true
 ---
 
-Check our new preprint on scalable code benchmark creation ([CodeBenchGen](https://arxiv.org/abs/2404.00566) 🤖💻)
+Gave a talk on our recent work on evaluation of medical text at Microsoft!
