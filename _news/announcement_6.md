@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-4-4 15:25:00-0400
+date: 2023-10-9 14:14:00-0400
 inline: true
 ---
 
-One paper on unsupervised dense retrieval got accepted to SIGIR 2023 ([Anchor-DR](https://arxiv.org/abs/2305.05834) ⚓) !
+One paper on code translation got accepted to EMNLP 2023 ([CMTrans](https://arxiv.org/abs/2305.05834) 🔄💻)!

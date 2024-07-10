@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-12-10 14:14:00-0400
+date: 2024-3-30 14:14:00-0400
 inline: true
 ---
 
-Present our work on code translation at EMNLP!
+Check our new preprint on scalable code benchmark creation ([CodeBenchGen](https://arxiv.org/abs/2404.00566) 🤖💻)
