@@ -38,4 +38,4 @@ My research goal is to build generalizable, scalable and annotation efficient sy
 **Scalable Evaluation Methods**
   * Synthetic benchmark generation ([CodeBenchGen](https://arxiv.org/abs/2404.00566))
   * Evaluation framework ([DocLens](https://arxiv.org/abs/2311.09581))
-  * Evaluator model training ([TBD])
+  * Evaluator model training (TBD)
