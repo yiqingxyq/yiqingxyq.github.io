@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University and I am working with [Daniel Fried](https://dpfried.github.io){:target="\_blank"} and [Carolyn Rosé](https://www.cs.cmu.edu/~cprose). Previously, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by [Jiawei Han](http://hanj.cs.illinois.edu){:target="\_blank"} and obtained my Bachelor degree in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
+I am a third-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University and I am working with [Carolyn Rosé](https://cp3a.github.io/) and [Daniel Fried](https://dpfried.github.io){:target="\_blank"}. Previously, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by [Jiawei Han](http://hanj.cs.illinois.edu){:target="\_blank"} and obtained my Bachelor degree in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
 
 My research mainly focuses on Code generation, LLM Agent, and Evaluation, including (i) building generalizable and annotation efficient NLP systems to assist human with practical tasks, and (ii) building reliable and automatic evaluation systems for NLP methods.
 <!-- My research goal is to build generalizable, scalable and annotation efficient systems to assist human with practical tasks. This includes: -->
