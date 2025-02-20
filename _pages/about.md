@@ -25,7 +25,9 @@ My research mainly focuses on Code generation, LLM Agent, and Evaluation, includ
 
 <!-- **I'm looking for a summer 2025 internship. Feel free to reach out if you have an opportunity that aligns!** -->
 
-<p style="color: #0a5fd7;">I'm looking for a summer 2025 internship. Feel free to reach out if you have an opportunity that aligns!</p>
+<p style="color: #0a5fd7; font-weight: bold;">I'm looking for a summer 2025 internship. Feel free to reach out if you have an opportunity that aligns!</p>
+
+<br>
 
 
 **Code Generation**
