@@ -6,7 +6,7 @@ description: >
     <a href="https://lti.cmu.edu/people/students/xie-yiqing.html">Language Technologies Institute, CMU</a>. <a href="mailto:yiqingxi@andrew.cmu.edu?subject=Hi">yiqingxi@andrew.cmu.edu</a>
 profile:
   align: right
-  image: Yiqing_Xie.png
+  image: website_photo.jpg
   address: >
     <p>Rm 6607, Gates and Hillman Centers</p>
     <p>4902 Forbes Ave</p>
