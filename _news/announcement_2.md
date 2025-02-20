@@ -1,8 +1,7 @@
 ---
 layout: post
-# date: 2024-2-18 14:14:00-0400
-date: 2024-5-16 
+date: 2025-1-22 
 inline: true
 ---
 
-Really excited about our newly-accepted ACL 2024 paper on medical evaluation! ([DocLens](https://arxiv.org/abs/2311.09581) 🔍) 
+One paper on RAG-for-code benchmark got accepted to NAACL-Findings 2025! ([CodeRAG-Bench](https://arxiv.org/abs/2406.14497))

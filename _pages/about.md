@@ -23,19 +23,24 @@ I am a third-year Ph.D. student at the Language Technologies Institute of Carneg
 My research mainly focuses on Code generation, LLM Agent, and Evaluation, including (i) building generalizable and annotation efficient NLP systems to assist human with practical tasks, and (ii) building reliable and automatic evaluation systems for NLP methods.
 <!-- My research goal is to build generalizable, scalable and annotation efficient systems to assist human with practical tasks. This includes: -->
 
-<!-- **Code Generation and Evaluation**
-  * Code generation ([CMTrans](https://arxiv.org/abs/2311.00317))
-  * Evaluation for code generation ([CodeBenchGen](https://arxiv.org/abs/2404.00566), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497))
-  * Code generation to assist other tasks (TBD) -->
+<!-- **I'm looking for a summer 2025 internship. Feel free to reach out if you have an opportunity that aligns!** -->
+
+<p style="color: #0a5fd7;">I'm looking for a summer 2025 internship. Feel free to reach out if you have an opportunity that aligns!</p>
+
+
+**Code Generation**
+  * Code generation Training ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [CMTrans](https://arxiv.org/abs/2311.00317))
+  * Evaluation for code generation ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
 
 **Annotation-efficient NLP Systems**
   * Pretraining & continuous pretraining ([Anchor-DR](https://arxiv.org/abs/2305.05834), [METRO-T0](https://arxiv.org/abs/2305.12567))
-  * Model-generated signals ([FenCE](https://arxiv.org/abs/2410.18359))
-  * Data augmentation ([Anchor-DR](https://arxiv.org/abs/2305.05834), [CMTrans](https://arxiv.org/abs/2311.00317), [Eider](https://arxiv.org/abs/2106.08657))
+  * Training environment ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing))
+  * Model-generated Reward Signals ([FenCE](https://arxiv.org/abs/2410.18359))
+  * Data augmentation ([FenCE](https://arxiv.org/abs/2410.18359), [Anchor-DR](https://arxiv.org/abs/2305.05834), [CMTrans](https://arxiv.org/abs/2311.00317), [Eider](https://arxiv.org/abs/2106.08657))
   * Guidance under heuristic metrics or prior knowledge ([AlaGCN](https://www.cs.emory.edu/~jyang71/files/alagnn.pdf), [RL-MMR](https://arxiv.org/abs/2010.00117), [KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
   * Unsupervised or Semi-supervised methods ([Set-CoExpan](https://arxiv.org/abs/2001.10106), [CoRel](https://arxiv.org/abs/2010.06714))
 
 **Reliable and Automatic Evaluation Systems**
-  * Evaluation Benchmarks ([CodeBenchGen](https://arxiv.org/abs/2404.00566), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497))
+  * Evaluation Benchmarks ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
   * Evaluation frameworks ([DocLens](https://arxiv.org/abs/2311.09581))
   * Evaluator models ([FenCE](https://arxiv.org/abs/2410.18359))
