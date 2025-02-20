@@ -20,7 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a third-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University and I am working with [Carolyn Rosé](https://cp3a.github.io/) and [Daniel Fried](https://dpfried.github.io){:target="\_blank"}. Previously, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by [Jiawei Han](http://hanj.cs.illinois.edu){:target="\_blank"} and obtained my Bachelor degree in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
 
-My research mainly focuses on Code generation, LLM Agent, and Evaluation, including (i) building generalizable and annotation efficient NLP systems to assist human with practical tasks, and (ii) building reliable and automatic evaluation systems for NLP methods.
+My research mainly focuses on annotation-efficient generation and evaluation systems, especially on code generation.
+The topics including (i) building generalizable and annotation efficient NLP systems to assist human with practical tasks, and (ii) building reliable and automatic evaluation systems for NLP methods.
 <!-- My research goal is to build generalizable, scalable and annotation efficient systems to assist human with practical tasks. This includes: -->
 
 <!-- **I'm looking for a summer 2025 internship. Feel free to reach out if you have an opportunity that aligns!** -->
@@ -29,10 +30,6 @@ My research mainly focuses on Code generation, LLM Agent, and Evaluation, includ
 
 <br>
 
-
-**Code Generation**
-  * Code generation Training ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [CMTrans](https://arxiv.org/abs/2311.00317))
-  * Evaluation for code generation ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
 
 **Annotation-efficient NLP Systems**
   * Pretraining & continuous pretraining ([Anchor-DR](https://arxiv.org/abs/2305.05834), [METRO-T0](https://arxiv.org/abs/2305.12567))
@@ -46,3 +43,7 @@ My research mainly focuses on Code generation, LLM Agent, and Evaluation, includ
   * Evaluation Benchmarks ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
   * Evaluation frameworks ([DocLens](https://arxiv.org/abs/2311.09581))
   * Evaluator models ([FenCE](https://arxiv.org/abs/2410.18359))
+
+**LLMs for Code Generation and Evaluation**
+  * Code generation Training ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [CMTrans](https://arxiv.org/abs/2311.00317))
+  * Evaluation for code generation ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
