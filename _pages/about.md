@@ -26,7 +26,7 @@ The topics including (i) building generalizable and annotation efficient NLP sys
 
 <!-- **I'm looking for a summer 2025 internship. Feel free to reach out if you have an opportunity that aligns!** -->
 
-<p style="color: #0a5fd7; font-weight: bold;">I'm looking for a summer 2025 internship. Feel free to reach out if you have an opportunity that aligns!</p>
+<p style="color: #0a5fd7; font-weight: bold;">I'm looking for a summer 2025 internship / collaboration on code generation or coding agents. Feel free to reach out if you have an opportunity that aligns!</p>
 
 <br>
 
