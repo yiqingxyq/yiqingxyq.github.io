@@ -47,4 +47,4 @@ The topics including (i) building generalizable and annotation efficient NLP sys
 **LLMs for Code Generation**
   * Code generation training ([RepoST](https://repost-code-gen.github.io/), [CMTrans](https://arxiv.org/abs/2311.00317))
   * Code generation evaluation ([RepoST](https://repost-code-gen.github.io/), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
-  * Code generation analysis ([SACL](https://arxiv.org/abs/2506.20081), [Strong-Weak-colab](https://arxiv.org/abs/2505.20182))
+  * Code generation analysis ([SACL](https://arxiv.org/abs/2506.20081), [Strong-Weak-Colab](https://arxiv.org/abs/2505.20182))
