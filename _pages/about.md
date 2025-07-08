@@ -33,17 +33,18 @@ The topics including (i) building generalizable and annotation efficient NLP sys
 
 **Annotation-efficient NLP Systems**
   * Pretraining & continuous pretraining ([Anchor-DR](https://arxiv.org/abs/2305.05834), [METRO-T0](https://arxiv.org/abs/2305.12567))
-  * Training environment ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing))
+  * Training environment ([RepoST](https://repost-code-gen.github.io/))
   * Model-generated Reward Signals ([FenCE](https://arxiv.org/abs/2410.18359))
   * Data augmentation ([FenCE](https://arxiv.org/abs/2410.18359), [Anchor-DR](https://arxiv.org/abs/2305.05834), [CMTrans](https://arxiv.org/abs/2311.00317), [Eider](https://arxiv.org/abs/2106.08657))
   * Guidance under heuristic metrics or prior knowledge ([AlaGCN](https://www.cs.emory.edu/~jyang71/files/alagnn.pdf), [RL-MMR](https://arxiv.org/abs/2010.00117), [KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
   * Unsupervised or Semi-supervised methods ([Set-CoExpan](https://arxiv.org/abs/2001.10106), [CoRel](https://arxiv.org/abs/2010.06714))
 
 **Reliable and Automatic Evaluation Systems**
-  * Evaluation Benchmarks ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
+  * Evaluation Benchmarks ([RepoST](https://repost-code-gen.github.io/), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
   * Evaluation frameworks ([DocLens](https://arxiv.org/abs/2311.09581))
   * Evaluator models ([FenCE](https://arxiv.org/abs/2410.18359))
 
-**LLMs for Code Generation and Evaluation**
-  * Code generation Training ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [CMTrans](https://arxiv.org/abs/2311.00317))
-  * Evaluation for code generation ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
+**LLMs for Code Generation**
+  * Code generation training ([RepoST](https://repost-code-gen.github.io/), [CMTrans](https://arxiv.org/abs/2311.00317))
+  * Code generation evaluation ([RepoST](https://repost-code-gen.github.io/), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [CodeBenchGen](https://arxiv.org/abs/2404.00566))
+  * Code generation analysis ([SACL](https://arxiv.org/abs/2506.20081), [Strong-Weak-colab](https://arxiv.org/abs/2505.20182))

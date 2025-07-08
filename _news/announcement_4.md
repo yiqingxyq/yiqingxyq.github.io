@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-2-19
+date: 2025-4-9
 inline: true
 ---
 
-Really excited about our new preprint: RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing! ([RepoST](https://drive.google.com/file/d/13NIHfMQqSFIzZLnpBpYniJtiftrS8ZB_/view?usp=sharing)) 
+Gave a talk about repo-level coding environment construction at the [EFML Reading Group](https://people.csail.mit.edu/ludwigs/index.html) (Stanford / UW)!
