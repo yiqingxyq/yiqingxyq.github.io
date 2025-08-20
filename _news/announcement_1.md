@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-7-7
+date: 2025-8-20
 inline: true
 ---
 
-Oun paper on synthetic coding environment construction for repo-level code generation got accepted to COLM 2025! ([RepoST](https://repost-code-gen.github.io/)) 
+Two papers on repo-level code generation got accepted to EMNLP 2025!!
