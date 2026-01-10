@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-1-22 
+date: 2025-4-9
 inline: true
 ---
 
-One paper on RAG-for-code benchmark got accepted to NAACL-Findings 2025! ([CodeRAG-Bench](https://arxiv.org/abs/2406.14497))
+Gave a talk about repo-level coding environment construction at the [EFML Reading Group](https://people.csail.mit.edu/ludwigs/index.html) (Stanford / UW)!

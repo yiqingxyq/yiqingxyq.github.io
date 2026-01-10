@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-7-7
+date: 2025-08-26 14:14:00-0400
 inline: true
 ---
 
-Oun paper on synthetic coding environment construction for repo-level code generation got accepted to COLM 2025! ([RepoST](https://repost-code-gen.github.io/)) 
+Start TA-ing for [11-891 Neural code generation](https://cmu-codegen.github.io/f2025/)!!
