@@ -8,7 +8,7 @@ profile:
   align: right
   image: website_photo.jpg
   address: >
-    <p>Rm 6607, Gates and Hillman Centers</p>
+    <p>Rm 6413, Gates and Hillman Centers</p>
     <p>4902 Forbes Ave</p>
     <p>Pittsburgh, PA 15213, USA</p>
 
