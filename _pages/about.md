@@ -30,7 +30,7 @@ The topics include:
 
 **Scalable Synthetic Training Data**
  * Pretraining & continuous pretraining ([Anchor-DR](https://arxiv.org/abs/2305.05834), [METRO-T0](https://arxiv.org/abs/2305.12567))
- * Training environment ([RepoST](https://repost-code-gen.github.io/), [Hybrid-Gym](https://github.com/yiqingxyq/Hybrid-Gym))
+ * Training environment ([RepoST](https://repost-code-gen.github.io/), [Hybrid-Gym](https://arxiv.org/abs/2602.16819))
  * Model-generated Reward Signals ([FenCE](https://arxiv.org/abs/2410.18359))
  * Data augmentation ([Eider](https://arxiv.org/abs/2106.08657), [Anchor-DR](https://arxiv.org/abs/2305.05834), [CMTrans](https://arxiv.org/abs/2311.00317), [FenCE](https://arxiv.org/abs/2410.18359))
  * Guidance under heuristic metrics or prior knowledge ([RL-MMR](https://arxiv.org/abs/2010.00117), [AlaGCN](https://www.cs.emory.edu/~jyang71/files/alagnn.pdf), [KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
@@ -38,7 +38,7 @@ The topics include:
 
 **Training Models for Task Generalization**
  * Zero-shot retriever training ([Anchor-DR](https://arxiv.org/abs/2305.05834), [METRO-T0](https://arxiv.org/abs/2305.12567))
- * General-purpose coding agent post-training ([Hybrid-Gym](https://github.com/yiqingxyq/Hybrid-Gym))
+ * General-purpose coding agent post-training ([Hybrid-Gym](https://arxiv.org/abs/2602.16819))
  * Few-shot graph-based interaction recommendation ([KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
 
 **Auxiliary Model Training and Benchmark Construction**
