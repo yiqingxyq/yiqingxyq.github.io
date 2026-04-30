@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-4-9
+date: 2025-5-15
 inline: true
 ---
 
-Gave a talk about repo-level coding environment construction at the [EFML Reading Group](https://people.csail.mit.edu/ludwigs/index.html) (Stanford / UW)!
+One paper on factuality evaluator training got accepted to ACL 2025! ([FenCE](https://arxiv.org/abs/2410.18359) 🚧) 

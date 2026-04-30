@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-6-25
+date: 2025-7-7
 inline: true
 ---
 
-Really excited about our two new preprints on analysis for code generation! ([SACL](https://arxiv.org/abs/2506.20081), [Strong-Weak-Colab](https://arxiv.org/abs/2505.20182))
+Oun paper on synthetic coding environment construction for repo-level code generation got accepted to COLM 2025! ([RepoST](https://repost-code-gen.github.io/)) 
