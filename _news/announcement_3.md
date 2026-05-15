@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-11-11 14:14:00-0400
+date: 2026-2-19 14:14:00-0400
 inline: true
 ---
 
-Gave a guest lecture in CMU 11-891 Neural code generation! ([slides](https://cmu-codegen.github.io/f2025/static_files/codegen_f2025_xie.pdf))
+New preprint on coding agent training for task generalization! ([Hybrid-Gym](https://arxiv.org/abs/2602.16819v1))

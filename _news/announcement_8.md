@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-5-15
+date: 2025-6-25
 inline: true
 ---
 
-One paper on factuality evaluator training got accepted to ACL 2025! ([FenCE](https://arxiv.org/abs/2410.18359) 🚧) 
+Really excited about our two new preprints on analysis for code generation! ([SACL](https://arxiv.org/abs/2506.20081), [Strong-Weak-Colab](https://arxiv.org/abs/2505.20182))
