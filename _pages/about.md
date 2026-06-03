@@ -30,18 +30,18 @@ The topics include:
 <br>
 
 **Scalable Synthetic Training Data**
- * Scalable training environment construction ([RepoST](https://repost-code-gen.github.io/), [Hybrid-Gym](https://arxiv.org/abs/2602.16819))
- * Model-generated Training Signals ([FenCE](https://arxiv.org/abs/2410.18359))
- * Pretraining & continuous pretraining ([Anchor-DR](https://arxiv.org/abs/2305.05834), [METRO-T0](https://arxiv.org/abs/2305.12567))
- * Data augmentation ([Eider](https://arxiv.org/abs/2106.08657), [Anchor-DR](https://arxiv.org/abs/2305.05834), [CMTrans](https://arxiv.org/abs/2311.00317), [FenCE](https://arxiv.org/abs/2410.18359))
- * Guidance under heuristic metrics or prior knowledge ([RL-MMR](https://arxiv.org/abs/2010.00117), [AlaGCN](https://www.cs.emory.edu/~jyang71/files/alagnn.pdf), [KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
+ * Scalable training environment construction [[RepoST]](https://repost-code-gen.github.io/), [[Hybrid-Gym]](https://arxiv.org/abs/2602.16819))
+ * Model-generated Training Signals [[FenCE]](https://arxiv.org/abs/2410.18359)
+ * Pretraining & continuous pretraining [[Anchor-DR]](https://arxiv.org/abs/2305.05834), [[METRO-T0]](https://arxiv.org/abs/2305.12567)
+ * Data augmentation [[Eider]](https://arxiv.org/abs/2106.08657), [[Anchor-DR]](https://arxiv.org/abs/2305.05834), [[CMTrans]](https://arxiv.org/abs/2311.00317), [[FenCE]](https://arxiv.org/abs/2410.18359)
+ * Guidance under heuristic metrics or prior knowledge [[RL-MMR]](https://arxiv.org/abs/2010.00117), [[AlaGCN]](https://www.cs.emory.edu/~jyang71/files/alagnn.pdf), [[KoMen]](https://www.cs.emory.edu/~jyang71/files/komen.pdf)
 
 **Training Models for Task Generalization**
- * Training coding agents for task generalization ([Hybrid-Gym](https://arxiv.org/abs/2602.16819))
- * Training retrievers for task generalization ([Anchor-DR](https://arxiv.org/abs/2305.05834), [METRO-T0](https://arxiv.org/abs/2305.12567))
- * Training graph-based methods for task generalization ([KoMen](https://www.cs.emory.edu/~jyang71/files/komen.pdf))
+ * Training coding agents for task generalization [[Hybrid-Gym]](https://arxiv.org/abs/2602.16819)
+ * Training retrievers for task generalization [[Anchor-DR]](https://arxiv.org/abs/2305.05834), [[METRO-T0]](https://arxiv.org/abs/2305.12567)
+ * Training graph-based methods for task generalization [[KoMen]](https://www.cs.emory.edu/~jyang71/files/komen.pdf)
 
 **Auxiliary Model Training and Benchmark Construction**
-  * Evaluation Benchmarks and Frameworks ([DocLens](https://arxiv.org/abs/2311.09581), [CodeBenchGen](https://arxiv.org/abs/2404.00566), [CodeRAG-Bench](https://arxiv.org/abs/2406.14497), [TheAgentCompany](https://arxiv.org/abs/2412.14161), [RepoST](https://repost-code-gen.github.io/))
-  * Auxiliary models in training and inference ([FenCE](https://arxiv.org/abs/2410.18359), [SACL](https://arxiv.org/abs/2506.20081), [Strong-Weak-Colab](https://arxiv.org/abs/2505.20182))
+  * Evaluation Benchmarks and Frameworks [[DocLens]](https://arxiv.org/abs/2311.09581), [[CodeBenchGen]](https://arxiv.org/abs/2404.00566), [[CodeRAG-Bench]](https://arxiv.org/abs/2406.14497), [[TheAgentCompany]](https://arxiv.org/abs/2412.14161), [[RepoST]](https://repost-code-gen.github.io/)
+  * Auxiliary models in training and inference [[FenCE]](https://arxiv.org/abs/2410.18359), [[SACL]](https://arxiv.org/abs/2506.20081), [[Strong-Weak-Colab]](https://arxiv.org/abs/2505.20182)
 
