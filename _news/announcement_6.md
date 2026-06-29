@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-8-20 14:14:00-0400
+date: 2025-11-11 14:14:00-0400
 inline: true
 ---
 
-Two papers on repo-level code generation got accepted to EMNLP 2025!! ([SACL](https://arxiv.org/abs/2506.20081), [Strong-Weak-Colab](https://arxiv.org/abs/2505.20182))
+Gave a guest lecture in CMU 11-891 Neural code generation! ([slides](https://cmu-codegen.github.io/f2025/static_files/codegen_f2025_xie.pdf))

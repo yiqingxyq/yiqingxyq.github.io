@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-08-26 14:14:00-0400
+date: 2026-2-19 14:14:00-0400
 inline: true
 ---
 
-Start TA-ing for [11-891 Neural code generation](https://cmu-codegen.github.io/f2025/)!!
+New preprint on coding agent training for task generalization! ([Hybrid-Gym](https://arxiv.org/abs/2602.16819v1))

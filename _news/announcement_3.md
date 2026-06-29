@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-2-19 14:14:00-0400
+date: 2026-5-15 14:14:00-0400
 inline: true
 ---
 
-New preprint on coding agent training for task generalization! ([Hybrid-Gym](https://arxiv.org/abs/2602.16819v1))
+Proposed my PhD thesis on "[Synthetic Training Data Construction for Coding Agents](https://github.com/yiqingxyq/thesis-proposal/blob/main/main.pdf)"🦸🏻‍♀️!!!

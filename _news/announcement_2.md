@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-4-30 14:14:00-0400
+date: 2026-5-25 14:14:00-0400
 inline: true
 ---
 
-Hybrid-Gym got accepted to ICML 2026! ([Hybrid-Gym](https://hybrid-gym.github.io/))
+Some of my recent preprints: Training small critic models to steer large coding agents ([Steer](https://arxiv.org/abs/2606.21811)); Analysis on LLM-based user simulation ([Sim2Real-Gap](https://arxiv.org/abs/2603.11245)); Human behavior simulation training ([DITTO](https://arxiv.org/abs/2605.20506)).
