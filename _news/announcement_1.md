@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-6-5 14:14:00-0400
+date: 2026-7-8 14:14:00-0400
 inline: true
 ---
 
-Gave a talk about designing scalable synthetic training tasks for coding agents at Nvidia!
+Two papers got accepted to COLM 2026!! Congrats to my wonderful collaborators! ([MetaLint](https://arxiv.org/abs/2606.21811) and [Sim2Real-Gap](https://arxiv.org/abs/2603.11245))

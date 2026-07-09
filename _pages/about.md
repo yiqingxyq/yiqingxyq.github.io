@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University and I am working with [Carolyn Rosé](https://cp3a.github.io/) and [Daniel Fried](https://dpfried.github.io){:target="\_blank"} on **coding agent training and evaluation**.
+I am a final year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University and I am working with [Carolyn Rosé](https://cp3a.github.io/) and [Daniel Fried](https://dpfried.github.io){:target="\_blank"} on **coding agent training and evaluation**.
 Previously, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by [Jiawei Han](http://hanj.cs.illinois.edu){:target="\_blank"} and obtained my Bachelor degree in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
 
 My research mainly focuses on synthetic training data construction and automatic evaluation, especially for coding agent.
@@ -38,9 +38,9 @@ The topics include:
 
 **Training Models for Task Generalization**
  * Training coding agents for task generalization [[Hybrid-Gym, ICML'26]](https://arxiv.org/abs/2602.16819)
- * Training NLP and graph-based methods for task generalization and easy-to-hard generalization [[MetaLint, Preprint'26]](https://arxiv.org/abs/2507.11687) [[Anchor-DR, SIGIR'23]](https://arxiv.org/abs/2305.05834) [[METRO-T0, ACL'23]](https://arxiv.org/abs/2305.12567) [[KoMen, WWW'22]](https://www.cs.emory.edu/~jyang71/files/komen.pdf)
+ * Training NLP and graph-based methods for task generalization and easy-to-hard generalization [[MetaLint, COLM'26]](https://arxiv.org/abs/2507.11687) [[Anchor-DR, SIGIR'23]](https://arxiv.org/abs/2305.05834) [[METRO-T0, ACL'23]](https://arxiv.org/abs/2305.12567) [[KoMen, WWW'22]](https://www.cs.emory.edu/~jyang71/files/komen.pdf)
 
 **Auxiliary Model Training and Benchmark Construction**
   * Evaluation Benchmarks and Frameworks [[RepoST, COLM'25]](https://repost-code-gen.github.io/) [[TheAgentCompany, Neurips'25]](https://arxiv.org/abs/2412.14161) [[CodeRAG-Bench, NAACL'25]](https://arxiv.org/abs/2406.14497) [[DocLens, ACL'24]](https://arxiv.org/abs/2311.09581) 
-  * Auxiliary models in training and inference [[Steer]](https://arxiv.org/abs/2606.21811) [[Strong-Weak-Colab, EMNLP'25]](https://arxiv.org/abs/2505.20182) [[SACL, EMNLP'25]](https://arxiv.org/abs/2506.20081) [[FenCE, ACL'25]](https://arxiv.org/abs/2410.18359)
+  * Auxiliary models in training and inference [[Steer, preprint'26]](https://arxiv.org/abs/2606.21811) [[Strong-Weak-Colab, EMNLP'25]](https://arxiv.org/abs/2505.20182) [[SACL, EMNLP'25]](https://arxiv.org/abs/2506.20081) [[FenCE, ACL'25]](https://arxiv.org/abs/2410.18359)
 
