@@ -42,5 +42,5 @@ The topics include:
 
 **Auxiliary Model Training and Benchmark Construction**
   * Evaluation Benchmarks and Frameworks [[RepoST, COLM'25]](https://repost-code-gen.github.io/) [[TheAgentCompany, Neurips'25]](https://arxiv.org/abs/2412.14161) [[CodeRAG-Bench, NAACL'25]](https://arxiv.org/abs/2406.14497) [[DocLens, ACL'24]](https://arxiv.org/abs/2311.09581) 
-  * Auxiliary models in training and inference [[Steer, preprint'26]](https://arxiv.org/abs/2606.21811) [[Strong-Weak-Colab, EMNLP'25]](https://arxiv.org/abs/2505.20182) [[SACL, EMNLP'25]](https://arxiv.org/abs/2506.20081) [[FenCE, ACL'25]](https://arxiv.org/abs/2410.18359)
+  * Auxiliary models in training and inference [[Steer, EMNLP'26]](https://arxiv.org/abs/2606.21811) [[Strong-Weak-Colab, EMNLP'25]](https://arxiv.org/abs/2505.20182) [[SACL, EMNLP'25]](https://arxiv.org/abs/2506.20081) [[FenCE, ACL'25]](https://arxiv.org/abs/2410.18359)
 
