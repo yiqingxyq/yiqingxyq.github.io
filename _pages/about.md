@@ -27,7 +27,7 @@ The topics include:
 (ii) Training coding agents to generalize across diverse tasks; 
 (iii) Improving coding agents with auxiliary models and evaluation benchmarks. 
 
-<p style="color: red;">👩‍💻 I am on the industry job market in 2027! Please check out my <a href="{{ '/assets/pdf/Yiqing_Xie_CV.pdf' | relative_url }}" style="color: inherit; text-decoration: underline;">CV</a>.</p>
+<p style="color: #a11a23; font-weight: bold;">👩‍💻 I am on the industry job market in 2027! Please check out my <a href="{{ '/assets/pdf/Yiqing_Xie_CV.pdf' | relative_url }}" style="color: inherit; text-decoration: underline;">CV</a>.</p>
 
 <br>
 
