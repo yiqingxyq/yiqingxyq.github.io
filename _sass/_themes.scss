@@ -3,6 +3,7 @@
  ******************************************************************************/
  
 :root {
+  --job-market-color: #a11a23;
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
@@ -25,6 +26,7 @@
 }
 
 html[data-theme='dark'] {
+  --job-market-color: #33c2cc;
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
