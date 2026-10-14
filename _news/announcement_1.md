@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-9-4 14:14:00-0400
+date: 2026-10-14 14:14:00-0400
 inline: true
 ---
 
-"Steer, Don't Solve" got accepted to EMNLP 2026!! ([Steer](https://arxiv.org/abs/2606.21811))
+New preprints on coding agent training effectiveness analysis ([CATRadar](https://catradar-coding-agent.github.io/static/pdfs/CATRadar.pdf)) and mitigating reward hacking in Rubric-based RL ([FORK](https://openreview.net/forum?id=sMy13QhmQd))!!!
