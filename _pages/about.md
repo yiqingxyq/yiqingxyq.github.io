@@ -22,7 +22,7 @@ I am a final year Ph.D. student at the Language Technologies Institute of Carneg
 Previously, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by [Jiawei Han](http://hanj.cs.illinois.edu){:target="\_blank"} and obtained my Bachelor degree in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
 
 My research mainly focuses on agentic post-training, coding agents, and factuality and trustworthiness:
-* **Scalable Synthetic Training Data.** I construct scalable and effective agent training environments, design lightweight training tasks that generalize to multiple coding agent benchmarks, and tackle reward-hacking for rubric-based RL.<br>
+* **Agentic Post-Training.** I construct scalable and effective agent training environments, design lightweight training tasks that generalize to multiple coding agent benchmarks, and tackle reward-hacking for rubric-based RL.<br>
 [Hybrid-Gym](https://arxiv.org/abs/2602.16819) (ICML'26) · [RepoST](https://repost-code-gen.github.io/) (COLM'25) · [USI](https://arxiv.org/abs/2603.11245) (COLM'26) · [Ditto](https://arxiv.org/abs/2605.20506) · [FORK](https://openreview.net/forum?id=sMy13QhmQd)
 
 * **Coding Agents.** I develop multi-agent inference settings that are effective, flexible, and cost-efficient, design automatic analysis methods that efficiently discover the influential factors of coding agent training demonstrations, and build evaluation benchmarks for realistic workplace tasks.<br>
