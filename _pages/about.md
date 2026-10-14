@@ -21,17 +21,22 @@ social: true  # includes social icons at the bottom of the page
 I am a final year Ph.D. student at the Language Technologies Institute of Carnegie Mellon University and I am working with [Carolyn Rosé](https://cp3a.github.io/) and [Daniel Fried](https://dpfried.github.io){:target="\_blank"} on **coding agent training and evaluation**.
 Previously, I obtained my Master degree in the data mining group at the University of Illinois Urbana-Champaign supervised by [Jiawei Han](http://hanj.cs.illinois.edu){:target="\_blank"} and obtained my Bachelor degree in Hong Kong University of Science and Technology, where I received the Academic Achievement Medal.
 
-My research mainly focuses on synthetic training data construction and automatic evaluation, especially for coding agent.
-The topics include: 
-(i) Constructing scalable synthetic training data for coding agents;
-(ii) Training coding agents to generalize across diverse tasks; 
-(iii) Improving coding agents with auxiliary models and evaluation benchmarks. 
+My research mainly focuses on agentic post-training, coding agents, and factuality and trustworthiness:
+* **Scalable Synthetic Training Data.** I construct scalable and effective agent training environments, design lightweight training tasks that generalize to multiple coding agent benchmarks, and tackle reward-hacking for rubric-based RL.
+[Hybrid-Gym](https://arxiv.org/abs/2602.16819) (ICML'26) · [RepoST](https://repost-code-gen.github.io/) (COLM'25) · [USI](https://arxiv.org/abs/2603.11245) (COLM'26) · [Ditto](https://arxiv.org/abs/2605.20506) · [FORK](https://openreview.net/forum?id=sMy13QhmQd)
+
+* **Coding Agents.** I develop multi-agent inference settings that are effective, flexible, and cost-efficient, design automatic analysis methods that efficiently discover the influential factors of coding agent training demonstrations, and build evaluation benchmarks for realistic workplace tasks.
+[Steer](https://arxiv.org/abs/2606.21811) (EMNLP'26 Oral) · [CATRadar](https://catradar-coding-agent.github.io/static/pdfs/CATRadar.pdf) · [TAC](https://arxiv.org/abs/2412.14161) (Neurips'25)
+
+* **Factuality and Trustworthiness.** I train critique-based evaluators that substantially improve factuality training and design evaluation frameworks for reliable and trustworthy clinical text generation.
+[FenCE](https://arxiv.org/abs/2410.18359) (ACL'26) · [DocLens](https://arxiv.org/abs/2311.09581) (ACL'24)
+
 
 <p style="color: var(--job-market-color); font-weight: bold;">👩‍💻 I am on the industry job market in 2027! Please check out my <a href="{{ '/assets/pdf/Yiqing_Xie_CV.pdf' | relative_url }}" style="color: inherit; text-decoration: underline;">CV</a>.</p>
 
-<br>
+<!-- <br> -->
 
-**Scalable Synthetic Training Data**
+<!-- **Scalable Synthetic Training Data**
  * Scalable training environment construction [[Hybrid-Gym, ICML'26]](https://arxiv.org/abs/2602.16819) [[RepoST, COLM'25]](https://repost-code-gen.github.io/) 
  * Model-generated Training Signals [[FenCE, ACL'25]](https://arxiv.org/abs/2410.18359)
  * Pretraining & continuous pretraining [[Anchor-DR, SIGIR'23]](https://arxiv.org/abs/2305.05834) [[METRO-T0, ACL'23]](https://arxiv.org/abs/2305.12567)
@@ -45,4 +50,4 @@ The topics include:
 **Auxiliary Model Training and Benchmark Construction**
   * Evaluation Benchmarks and Frameworks [[USI, COLM'26]](https://arxiv.org/abs/2603.11245) [[RepoST, COLM'25]](https://repost-code-gen.github.io/) [[TheAgentCompany, Neurips'25]](https://arxiv.org/abs/2412.14161) [[CodeRAG-Bench, NAACL'25]](https://arxiv.org/abs/2406.14497) [[DocLens, ACL'24]](https://arxiv.org/abs/2311.09581)
   * Auxiliary models in training and inference [[Steer, EMNLP'26]](https://arxiv.org/abs/2606.21811) [[Strong-Weak-Colab, EMNLP'25]](https://arxiv.org/abs/2505.20182) [[SACL, EMNLP'25]](https://arxiv.org/abs/2506.20081) [[FenCE, ACL'25]](https://arxiv.org/abs/2410.18359)
-
+ -->
