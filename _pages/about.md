@@ -29,7 +29,7 @@ My research mainly focuses on agentic post-training, coding agents, and factuali
 [Steer](https://arxiv.org/abs/2606.21811) (EMNLP'26 Oral) · [CATRadar](https://catradar-coding-agent.github.io/static/pdfs/CATRadar.pdf) (preprint) · [Hybrid-Gym](https://arxiv.org/abs/2602.16819) (ICML'26) · [RepoST](https://repost-code-gen.github.io/) (COLM'25) · [TAC](https://arxiv.org/abs/2412.14161) (Neurips'25) · [CodeRAG-Bench](https://arxiv.org/abs/2406.14497) (NAACL Findings'25)
 
 * **Factuality and Reliability.** I train critique-based evaluators that substantially improve factuality training, design evaluation frameworks for reliable and trustworthy clinical text generation, and continuous pretrain LLMs for better generalizability.<br>
-[FenCE](https://arxiv.org/abs/2410.18359) (ACL'26) · [DocLens](https://arxiv.org/abs/2311.09581) (ACL'24) · [AnchorDR](https://arxiv.org/abs/2305.05834) (SIGIR'23) · [METRO-T0](https://arxiv.org/abs/2305.12567) (ACL'23)
+[FenCE](https://arxiv.org/abs/2410.18359) (ACL'25) · [DocLens](https://arxiv.org/abs/2311.09581) (ACL'24) · [AnchorDR](https://arxiv.org/abs/2305.05834) (SIGIR'23) · [METRO-T0](https://arxiv.org/abs/2305.12567) (ACL'23)
 
 
 <p style="color: var(--job-market-color); font-weight: bold;">👩‍💻 I am on the industry job market in 2027! Please check out my <a href="{{ '/assets/pdf/Yiqing_Xie_CV.pdf' | relative_url }}" style="color: inherit; text-decoration: underline;">CV</a>.</p>
