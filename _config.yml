@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yiqing Xie's Personal Webpage # the website title (if blank, full name will be used instead)
+title: blank # use the full name, with the first name in bold
 first_name: Yiqing
 last_name: Xie
 email: yiqingxi@andrew.cmu.edu
