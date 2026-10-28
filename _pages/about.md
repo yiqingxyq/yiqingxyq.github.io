@@ -23,7 +23,7 @@ Previously, I obtained my Master degree in the data mining group at the Universi
 
 My research mainly focuses on agentic post-training, coding agents, and factuality and reliability:
 * **Agentic Post-Training.** I construct scalable and effective agent training environments, design lightweight training tasks that generalize to multiple coding agent benchmarks, and tackle reward-hacking for rubric-based RL.<br>
-[Hybrid-Gym](https://arxiv.org/abs/2602.16819) (ICML'26) · [RepoST](https://repost-code-gen.github.io/) (COLM'25) · [USI](https://arxiv.org/abs/2603.11245) (COLM'26) · [Ditto](https://arxiv.org/abs/2605.20506) (preprint) · [FORK](https://openreview.net/forum?id=sMy13QhmQd) (preprint)
+[Hybrid-Gym](https://arxiv.org/abs/2602.16819) (ICML'26) · [RepoST](https://repost-code-gen.github.io/) (COLM'25) · [USI](https://arxiv.org/abs/2603.11245) (COLM'26) · [Ditto](https://arxiv.org/abs/2605.20506) (preprint) · [FORK](https://arxiv.org/abs/2610.33512) (preprint)
 
 * **Coding Agents.** I develop multi-agent inference settings that are effective, flexible, and cost-efficient, design automatic analysis methods that efficiently discover the influential factors of coding agent training demonstrations, and build evaluation benchmarks for realistic workplace tasks.<br>
 [Steer](https://arxiv.org/abs/2606.21811) (EMNLP'26 Oral) · [CATRadar](https://catradar-coding-agent.github.io/static/pdfs/CATRadar.pdf) (preprint) · [Hybrid-Gym](https://arxiv.org/abs/2602.16819) (ICML'26) · [RepoST](https://repost-code-gen.github.io/) (COLM'25) · [TAC](https://arxiv.org/abs/2412.14161) (Neurips'25) · [CodeRAG-Bench](https://arxiv.org/abs/2406.14497) (NAACL Findings'25)
